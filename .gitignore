@@ -1,0 +1,24 @@
+# Model files (too large)
+*.h5
+*.pkl
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+
+# OS files
+.DS_Store
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
