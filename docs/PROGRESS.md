@@ -15,6 +15,10 @@
 
 ## Version 3.0 - GPT-2 Model (In Progress)
 - Status:  Starting
-- Expected Completion: Dec 29, 2025
+- Expected Completion: Dec 29, 2025 but project couldn't be completed as required and expected. 
 - Goal: Natural, friend-like responses
-- Expected Quality: 9/10
+- Expected Quality: 9/10 
+- Response Quality during testing 3/10
+- Project being scrapped and redesigned fully due to  original implementation showing declining performance than what was expected.
+- The deadline was repeatedly extended with no clear path to completion. 
+- 
