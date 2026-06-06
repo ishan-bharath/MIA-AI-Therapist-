@@ -12,7 +12,7 @@ Build a conversational AI that feels like chatting with a supportive friend and 
 - **Training Data:** 150 conversation pairs
 - **Model:** GPT-2 (fine-tuned)
 - **Framework:** TensorFlow, Hugging Face Transformers
-- **Status:** Project shelved due to sub optimal responses due to extremely low training data and moved on to V2
+- **Status:** Project shelved due to sub optimal responses due to extremely low training data.
 
 ##  Project Evolution
 
@@ -22,11 +22,12 @@ Build a conversational AI that feels like chatting with a supportive friend and 
 - Output: Generic responses but not good.
 - **Outcome:** Functional but not natural
 
-### Version 1.1 - GPT-2 Fine-tuning
+### Version 2.0 - GPT-2 Fine-tuning
 - Pre-trained GPT-2 model
 - 150 training examples
 - Natural language generation
-- Friend-like personality but no real structure to responses.
+- Friend-like personality but no structure to responses. 
+- Responses were robotic and copy pasting training data instead of making proper responses.
 
-- **Status:** Current development stalled due to availabilty of better methods and sub optimal responses from model.
+- **Status:** All development stalled due to availabilty of better methods and sub optimal responses from model.
 
